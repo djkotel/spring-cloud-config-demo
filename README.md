@@ -1,3 +1,0 @@
-# Spring Cloud Config ДЗ
-
-
